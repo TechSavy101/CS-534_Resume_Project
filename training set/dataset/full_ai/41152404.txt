@@ -1,0 +1,113 @@
+Summary:
+Seeking a position where I can leverage my experience in software testing and automation, along with my strong technical skills and certifications.
+
+Experience:
+Test Analyst-Intern/Contractor
+Role: Test Analyst-Intern/Contractor
+Dates: August 2014 to February 2015
+Responsibilities:
+- System testing and functional testing on E-commerce websites
+- Cross browser and cross platform testing on different desktop browsers, Mobile phones and various Tablets
+- Analyzing the Requirements provided by client in Functional and Technical requirements specification
+- Communicating with BA, Developers and Project coordinators
+- Writing functional and non-functional requirement test cases based of functional specification
+- Performing integration testing in co-ordination with client for the site, which is integrated with external system
+- Testing the complicated promotions under support and also testing assess the support issues received from client
+- Participating in the daily stand up meeting and also involving in the company meeting towards process improvement
+Accomplishments:
+- List of Retail Domain Projects: [URL] [URL] [URL] [URL] [URL]
+
+Quality Analyst
+Role: Quality Analyst
+Dates: October 2011 to February 2014
+Responsibilities:
+- Testing [PERSON] and Google [PERSON] and Desktop application
+- Functional Testing and Integration Testing of various mobile apps on [PERSON]
+- Install and performed a wide variety of Android-based app reviews on Play Store
+- Design test plans and write test cases for new product features to be launched in Play Store and Google Maps
+- Developing Automation test cases using GoogleUIAutomator testing framework
+- [PERSON] testing on various browsers(Chrome, [PERSON], IE and [PERSON]) and [PERSON] ([PERSON] and IOS) Devices
+- Reviewing the data added by internal team or by external users before going live on to the Google Maps by conducting proper research
+- Performing ad-hoc testing and did sanity check on the application once the date is live
+- Identifying, reporting and tracking bugs using Buganizer tool(Google internal tool)
+- Managing and mentored team of 20 people and documented all the team- member's statistics and everyday performance and provided it to my lead
+- Guiding the team in the absence of my lead
+- Participating in meetings with development teams to discuss and suggest improvements for the software testing process
+Accomplishments:
+- List of Retail Domain Projects: [URL] [URL] [URL] [URL] [URL]
+- Developed Automation test cases using GoogleUIAutomator testing framework
+- Performing ad-hoc testing and did sanity check on the application once the date is live
+- Identifying, reporting and tracking bugs using Buganizer tool(Google internal tool)
+
+Test Engineer
+Role: Test Engineer
+Dates: September 2010 to July 2011
+Responsibilities:
+- Understanding of the Business requirement specifications and System requirement specifications
+- Clear understanding of the user requirements
+- Preparation of test data and writing Test Cases and executing them
+- Developing the QTP scripts in Expert View for assigned test cases
+- Writing functional and non-functional requirement test cases based of functional specification
+- Participating in weekly team meetings and suggest improvements in testing process
+- Preparation of daily and weekly status reports
+Accomplishments:
+- USA Environment: [PERSON], SQL Server 2005, C#
+- Developing the QTP scripts in Expert View for assigned test cases
+- Preparation of daily and weekly status reports
+
+Test Engineer
+Role: Test Engineer
+Dates: September 2010 to February 2011
+Responsibilities:
+- Understanding of the Business requirement specifications and System requirement specifications
+- Clear understanding of the user requirements
+- Preparation of test data and writing Test Cases and executing them
+- Developing the QTP scripts in Expert View for assigned test cases
+- Writing functional and non-functional requirement test cases based of functional specification
+- Participating in weekly team meetings and suggest improvements in testing process
+- Preparation of daily and weekly status reports
+Accomplishments:
+- USA Environment: [PERSON], SQL Server 2005, C#
+- Developing the QTP scripts in Expert View for assigned test cases
+- Preparation of daily and weekly status reports
+
+Education:
+- Bachelor of Engineering
+Institution: Jawaharlal Nehru Technological University
+Dates: September 2010 to July 2011
+- Master of Engineering
+Institution: University of Auckland
+Dates: September 2010 to July 2011
+
+Skills:
+- Testing
+- Cases
+- Test Cases
+- Functional Testing
+- Integration
+- Integration Testing
+- Integrator
+- Android
+- C#
+- HTML
+- Java
+- Jira
+- Buganizer
+- Office Suite
+- Microsoft office
+- Microsoft Project
+- Open Office
+- Database
+- Insurance Management
+- Payments
+- B2b Software
+- High Performance Computing
+- Project Management
+- Risk Management
+- Security
+- Software Engineering
+- System Security
+- Trading
+
+Certifications:
+- ISTQB certified tester

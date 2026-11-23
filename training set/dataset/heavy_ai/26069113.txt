@@ -1,0 +1,74 @@
+Résumé
+
+Experienced Software Engineer with a specialization in Game Play and AI programming. Proficient in Unity 3D, C++, and C#. Extensive experience in game development, including AI, animation, and server-side development. Skilled in optimizing and maintaining game codebases, as well as developing and integrating new features and functionalities.
+
+Professional Experience
+
+Software Engineer
+Star Wars: Galaxy of Heroes (iOS/Android, Fall 2015)
+- Worked with product managers to implement in-game telemetry.
+- Implemented various features and fixed bugs required for soft launch.
+- Established first playable prototype in Unity 3D, with player-controlled units that utilized a navigation mesh while obeying rotational and movement constraints.
+- Created custom code to drive vehicle-tread animation based on vehicle velocity.
+- Established first playable prototype in Unity 3D, with player-controlled units that utilized a navigation mesh while obeying rotational and movement constraints.
+- Created custom code to drive vehicle-tread animation based on vehicle velocity.
+- Wrote code to support player interaction with in-world game objects.
+- Prototyped player exploration game mode with multiple control schemes and UI.
+
+Unannounced Mobile Strategy Title (iOS/Android, Unreleased)
+- Worked with artists to develop player animation and movement code using Unity 3D.
+- Established first playable prototype in Unity 3D, with player-controlled units that utilized a navigation mesh while obeying rotational and movement constraints.
+- Created custom code to drive vehicle-tread animation based on vehicle velocity.
+- Wrote code to support player interaction with in-world game objects.
+- Prototyped player exploration game mode with multiple control schemes and UI.
+
+Unannounced Mobile Role-Playing Title (iOS/Android, Unreleased)
+- Wrote code to support player interaction with in-world game objects.
+- Prototyped player exploration game mode with multiple control schemes and UI.
+- Developed AI behaviors, and a system that used dynamic navigation mesh obstacles allowing bots to avoid incoming enemy fire and move away from fire at current location.
+
+Star Wars: The Old Republic (PC, Open beta release)
+- Extended the developer cheat system to allow in-game cheats to be used on production servers by entitled user accounts to facilitate QA testing and debugging of live builds.
+- Worked with a team to develop AI bots from a single rough prototype to a full roster of 5 bots released as part of first-time user experience.
+- Developed AI behaviors, and a system that used dynamic navigation mesh obstacles allowing bots to avoid incoming enemy fire and move away from fire at current location.
+
+Dawngate (PC, Open beta release)
+- Extended the developer cheat system to allow in-game cheats to be used on production servers by entitled user accounts to facilitate QA testing and debugging of live builds.
+- Worked with a team to develop AI bots from a single rough prototype to a full roster of 5 bots released as part of first-time user experience.
+- Developed AI behaviors, and a system that used dynamic navigation mesh obstacles allowing bots to avoid incoming enemy fire and move away from fire at current location.
+
+Command & Conquer (PC, Limited live alpha release)
+- Enhanced and debugged (C#) server-side skirmish AI unit production and base defense.
+- Developed code to allow the skirmish AI to use taunts against opponents.
+- Established localization pipeline and workflow using EA shared technology database and tools.
+- Integrated an EA shared technology UI system (C++) into the game client codebase.
+- Implemented HUD features such as objective system, and contextual unit information display.
+- Designed and implemented (C++) client, and (C#) server code for queued player command system, and commands including moving, attacking, changing stance, and selecting units.
+- Developed code to handle assigning units and structures to control groups.
+- Refactored hotkey system to allow hotkeys to trigger different actions based on context.
+
+Rift (PC, Open beta release)
+- Developed automated load test scenarios that included report generation for historical analysis.
+- Implemented UI features for the Game Remote Administration Tool for customer service agents.
+- Performed feature development and maintenance of platform products, including the crash service, real-time metrics visualization system, and the data collection and transformation service.
+- Designed and developed Distributed Testing Service, a client-server based system designed to run functional, load, and scalability tests, and store results in a database.
+- Reclaimed and updated code from game team code base, and released it as part of the Trion Platform Foundation code base.
+
+Midway, Software Engineer
+- Enhanced and debugged (C#) server-side skirmish AI unit production and base defense.
+- Developed code to allow the skirmish AI to use taunts against opponents.
+- Established localization pipeline and workflow using EA shared technology database and tools.
+- Integrated an EA shared technology UI system (C++) into the game client codebase.
+- Implemented HUD features such as objective system, and contextual unit information display.
+- Designed and implemented (C++) client, and (C#) server code for queued player command system, and commands including moving, attacking, changing stance, and selecting units.
+- Developed code to handle assigning units and structures to control groups.
+- Refactored hotkey system to allow hotkeys to trigger different actions based on context.
+
+Education
+
+Georgia State University, Computer Science
+May 2006
+- Proficient in 3D, alpha, animation, AI, C++, client-server, codebase, content, client, customer service, data collection, database, debugging, editor, features, functional, game design, logging, C#, navigation, next, developer, physics, QA, real-time, servers, Script, Strategy, telemetry, workflow
+
+Skills
+- 3D, alpha, animation, AI, C++, client-server, codebase, content, client, customer service, data collection, database, debugging, editor, features, functional, game design, logging, C#, navigation, next, developer, physics, QA, real-time, servers, Script, Strategy, telemetry, workflow

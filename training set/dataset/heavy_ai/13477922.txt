@@ -1,0 +1,74 @@
+Résumé
+
+Professional Profile: A seasoned Information Technology Specialist with over two decades of experience in setting up and maintaining network infrastructure, software installations, and hardware support. Proficient in a wide range of technologies, including A+, Network+, Security+, and MCSE certifications. Skilled in troubleshooting, network analysis, and problem resolution, with a strong background in Windows and [PERSON] environments.
+
+Experience:
+
+Information Technology Specialist
+*Company Name*
+April 2015 - Present
+- Set up and maintained the network infrastructure, including wired and wireless configurations.
+- Assisted users with their computers, including hardware and software setup.
+- Managed user e-mail accounts and network security.
+- Configured and maintained Android phones for accessing company resources.
+- Maintained security protocols to ensure only authorized users could access the network.
+- Installed and configured PDA devices for faculty and staff.
+- Assisted network administrators with network setup and maintenance, including routers, switches, and servers.
+- Managed DHCP and Domain Controllers using Active Directory.
+- Used Ghost and KBOX servers for image capture and software package deployment.
+- Monitored and maintained classroom projectors and smart boards.
+- Troubleshooted and resolved software and hardware issues for the School of Engineering and Applied Science.
+- Maintained licenses and licenses servers.
+- Monitored and managed intermapper for real-time network monitoring.
+- Set up and configured virtual machines and Polycom Qdx 6000 video conferencing systems.
+
+Computer Technical Specialist
+*Company Name*
+September 2007 - January 2014
+- Installed and maintained software on Faculty and Staff computers in Windows and [PERSON] environments.
+- Troubleshooted software and hardware problems on user machines.
+- Configured and maintained printers, scanners, and fax machines for staff and faculty.
+- Configured and maintained PDA devices for faculty and staff.
+- Assisted network administrators with network setup and maintenance, including routers, switches, and servers.
+- Managed DHCP and Domain Controllers using Active Directory.
+- Monitored and managed intermapper for real-time network monitoring.
+- Installed and configured virtual machines and Polycom Qdx 6000 video conferencing systems.
+
+Senior Computer Network Support Technician
+*Company Name*
+November 2001 - September 2007
+- Provided statewide data telecommunications support and on-site problem analysis and resolution.
+- Installed and removed software in a teaching and testing facility.
+- Assigned rights and permissions to users and serviced the network.
+- Troubleshooted hardware and software problems on the network.
+- Configured IP addresses dynamically and statically for new machines using a DHCP server.
+- Maintained compatibility of new hardware and software on the network, including routers, switches, and servers.
+- Reorganized LANs to ensure speed and performance.
+- Installed and maintained all network wiring.
+- Managed intermapper for real-time network monitoring.
+- Set up and configured Polycom Qdx 6000 video conferencing systems.
+
+Junior Network Administrator
+*Company Name*
+September 1999 - November 2001
+- Installed and removed programs on a network in a teaching and testing facility.
+- Assigned rights and permissions to users and serviced the network.
+- Troubleshooted hardware and software problems on the network.
+- Configured IP addresses dynamically and statically for new machines using a DHCP server.
+- Maintained compatibility of new hardware and software on the network, including routers, switches, and servers.
+- Reorganized LANs to ensure speed and performance.
+- Installed and maintained all network wiring.
+- Managed intermapper for real-time network monitoring.
+- Set up and configured Polycom Qdx 6000 video conferencing systems.
+
+Education:
+- Comp A+ Course, Windows 7 course, CompTIA Network+ course, CompTIA Security+ course, [PERSON] 2012 class, CCNA Class.
+- CompTIA Network+ certification, CompTIA Security+ certification, CompTIA A+ certification, MCSE - Microsoft Certified Professional Systems Engineer.
+- Northern Virginia Community College, Virginia Commonwealth University, GPA: [PERSON]'s Lists GPA: 3.4, Dean's Lists GPA: 3.4.
+- M.A : Education, Biology and General Science, 1982, George Mason University, Fairfax City.
+- B.S : Biology, 1982, George Mason University, Fairfax City.
+- A.A.S : Networking, NVCC Alexandria.
+- A.A.S : Microcomputer Specialization, NVCC Alexandria.
+
+Skills:
+- A+, A+ certification, active directory, [PERSON], Cisco Certified Network Associate, hardware, consultation, client, DHCP, e-mail, fax machines, ghost, IP, LANs, access, Microsoft Certified Professional, MCSE, Windows 7, Windows, Network, Networking, networks, printers, problem analysis and resolution, protocols, real time, router, routers, scanners, servers, switches, switch, [PERSON], teaching, telecommunications, phones, Troubleshoot, troubleshooting, video, video conferencing, [PERSON], wiring.

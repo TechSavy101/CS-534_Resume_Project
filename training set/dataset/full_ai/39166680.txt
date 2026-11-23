@@ -1,0 +1,75 @@
+Résumé
+Summary
+A seasoned Sr Digital Analytics Manager with over 20 years of experience in digital analytics, optimization, and strategic planning. Proven track record of driving revenue growth through data-driven insights and optimization strategies. Skilled in digital marketing channels, eCommerce, and supply chain management. Strong background in digital analytics, conversion rate optimization, and data visualization.
+Experience
+
+Sr Digital Analytics Manager
+*01/2017 - Current*
+- Conceptualize and manage dashboards for multiple websites and marketing channel performance to develop strategy and campaign optimization.
+- Optimize individual marketing channels (Paid, Social, and [PERSON]) based on users' entry (landing) page, reducing overall bounce rate by 24% and increasing ROI by 13%.
+- Seamlessly launch predictive landing page for paid search increasing conversion by 34% vs. non-predictive.
+- Execute churn prevention program with personalized [PERSON] and layer Social lookalike audiences; annual incremental revenue of $519K and lift in revenue per user of +16%.
+- Methodically implement predictive segmentation ([PERSON] and Affinity) increase overall revenue per Email by 14% and unique click rate by 18%.
+- Modernize enterprise digital analytics architecture based on best practices; making analytics accessible to other cross-functional teams.
+- Maintain SDR for Adobe analytics, AI, loyalty, and OMS; accelerate data migration to Salesforce ([PERSON] and ExactTarget).
+- Train new hires in digital space, reporting and vendor dashboards.
+- Intellectually construct presentations with complex analytical findings, and deliver a finished product that is clear, concise, "digestible" and focused on key drivers for Senior Leadership.
+
+Web/Business Analytics Manager - eCommerce
+*03/2014 - 12/2016*
+- Deliver profound analytics solutions to journey managers, merchandisers and marketing operations groups; as well as provide recommendations for areas of optimization.
+- Release exploration and refinement A/B testing to optimize HP, PLP, PDP, and friction-less checkout increase conversion by +14% to 22% and cart conversion by +12% in Mobile and 8% in Desktop.
+- Manage rules engine, modifiers, and algorithm manipulation with AI personalized platform for website and [PERSON]; resulting in $6.6m in recommendation revenue.
+- Manage special projects and ad hoc reporting including testing and business case scenario development.
+- Evaluate strategic site redesign (mobile first u/x approach) to improve brand messaging, engage new users, and improve conversion; resulted in 13% increase in revenue, 4% increase in visit duration, 12% increase in conversion and 16% decrease in bounce rate.
+- Identify, develop and evaluate competitive analysis through Web-scraping in terms of product range, price, marketing initiatives, customer offerings, and chatter trends.
+- Plan and manage weekly strategy for marketing channels (SEO, SEM, Direct, Email); drive top and bottom funnel tactics with segmentation list growth, loyalty, and CLV.
+- Build, manage and execute eCommerce assortment plans, recommended investment strategies and units for an accurate flow forecast to help maximize GMROI and mitigate inventory liability.
+- Assisted in tag management services and user acceptance testing in order to maintain integrity across multiple sources of data.
+
+Strategic Manager - eCommerce Toys and Seasonal Dept
+*07/2011 - 02/2014*
+- Strategise with marketing and merchant group to establish a cohesive brand messaging within key brands to improve consideration and overall assortment.
+- Synchronize implementation of inventory plan for all 3 Divisions involving 10 inventory managers to ensure optimal flow to our 3rd party online facility.
+- Optimize SKU productivity and increased sales for eCommerce by $17.6m a growth of 93% over LY; utilizing multi-channel retail to drive sales.
+- Actionable intelligence of customer journey to make necessary adjustments to improve conversion rate and customer experience.
+- Collaborate with cross-functional teams to improve marketing exposure and inventory position, providing seamless shopping experience.
+- Orchestrated strategic partnership with cross-functional teams for seasonal peaks.
+
+Sr Inventory Manager - Toys
+*08/2009 - 06/2011*
+- Responsible for financial planning of sales, markdowns, gross margin, inventory, and receipts for 900 import and domestic SKUs (working with 70 vendors) with annual revenue of $170m in 1250 Kmart stores and Sears toys in 650 stores.
+- Utilized NPD reports (market pulse and market map) to focus on growth categories based on market share and trend.
+- Developed trend file for Toys division resulting in reduced inventory liability by $18.2m.
+
+Sr Inventory Analyst - Furniture and Lamps
+*12/2005 - 01/2008*
+- Responsible for financial planning of sales, markdowns, gross margin, inventory, and receipts for 900 import and domestic SKUs (working with 70 vendors) with annual revenue of $170m in 1250 Kmart stores and Sears toys in 650 stores.
+- Utilized NPD reports (market pulse and market map) to focus on growth categories based on market share and trend.
+- Developed trend file for Toys division resulting in reduced inventory liability by $18.2m.
+
+Supply Chain Management
+*03/2002 - 09/2005*
+- Responsible for financial planning of sales, markdowns, gross margin, inventory, and receipts for 900 import and domestic SKUs (working with 70 vendors) with annual revenue of $170m in 1250 Kmart stores and Sears toys in 650 stores.
+- Utilized NPD reports (market pulse and market map) to focus on growth categories based on market share and trend.
+- Developed trend file for Toys division resulting in reduced inventory liability by $18.2m.
+
+Logistics Readiness Officer
+*02/1999 - 01/2002*
+- Responsible for financial planning of sales, markdowns, gross margin, inventory, and receipts for 900 import and domestic SKUs (working with 70 vendors) with annual revenue of $170m in 1250 Kmart stores and Sears toys in 650 stores.
+- Utilized NPD reports (market pulse and market map) to focus on growth categories based on market share and trend.
+- Developed trend file for Toys division resulting in reduced inventory liability by $18.2m.
+Education
+- B.S : Business Management, Arizona State University
+Skills
+- Digital insights and analytics (Adobe Experience Cloud, Google Analytics, and Looker)
+- Conversion rate optimization; a/b testing (Qubit and Adobe Target)
+- Email marketing & marketing automation ([PERSON] and SFMC)
+- Salesforce Marketing Cloud (Social Studio)
+- Data visualization (Tableau and Chartio)
+- Tagging & attribution (GTM and DTM)
+- SQL
+Certifications
+- Adobe Experience Cloud
+- Google Analytics
+- Looker

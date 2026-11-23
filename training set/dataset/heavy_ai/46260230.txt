@@ -1,0 +1,59 @@
+RESUME
+
+Summary:
+Adept in technology, I bring a passion for leveraging the power of technology to enhance organizational performance. With over 10 years of experience in information technology support, I excel in installing, updating, and optimizing hardware and software systems. My expertise in operations analysis, project management, and quality assurance has enabled me to refine strategies, improve collaboration, and enhance security. I am a proactive problem solver with a collaborative approach, adept at communicating complex technical details to diverse audiences. My skills in network administration, system upgrades, and security technologies have positioned me to contribute effectively in a variety of roles.
+
+Professional Experience:
+
+Information Technology Specialist (DiscountPCFix)
+*11/2011 - Current*
+- Assisted clients with new computer and network equipment purchases.
+- Updated or installed software to ensure computer efficiency.
+- Performed diagnostics and backed up data to mitigate data loss due to malware incidents.
+- Configured and upgraded computers to improve speed and performance.
+- Installed and repaired motherboards, processors, and graphics cards.
+- Configured computers to network drivers and connected to printers and other peripheral equipment.
+- Fixed Apple products, including iPhone, iMac, iPad, and laptops, for screen damage and liquid damage.
+- Observed system functioning and entered commands to test different areas of operations.
+- Provided technical support via email, live chat, and telephone, including remote and local IT support.
+- Handled network configurations after hours and on weekends to maintain smooth operations.
+- Assisted customers with various types of technical issues, including password resets and account customization.
+- Supported customers with data connectivity issues, offering troubleshooting steps and hardware reboot assistance.
+- Conducted non-destructive tests and visual inspections on finished products to ensure conformance with quality control requirements.
+- Performed site evaluations, customer surveys, and team audits to promote continuous improvement in IT governance processes.
+
+Quality Control Inspector Contractor
+*04/2019 - Current*
+- Conferred with scientific, engineering, and technical personnel to resolve design, research, and testing problems.
+- Developed and implemented best practices for defect prevention and continuous improvement.
+- Used specialized tools to take precise measurements of various aspects of samples.
+- Wrote detailed reports outlining performance, quality, and defect rates.
+- Documented nonconformities and recommended techniques for prompt resolution.
+- Assessed materials, parts, and products for conformance with quality control requirements and production specifications.
+- Adhered to all safety protocols to minimize equipment damage and avoid injuries.
+
+Network Analyst
+*06/2016 - 05/2018*
+- Identified operational and performance issues and worked with managers to resolve concerns.
+- Supported hardware types: servers, storage systems, network equipment, PCs, iPads, and notebooks of any brands.
+- Analyzed operational performance to identify pain points and provided actionable solutions to management.
+- Educated personnel on company policies to foster improved customer retention and increased revenue.
+- Provided senior technical support to both in-house staff and user departments for all network applications.
+- Monitored project budget through careful assessment of resource usage and task management to ensure costs were kept low.
+- Supported customers with password resets, account customization, and data connectivity issues.
+- Performed site evaluations, customer surveys, and team audits to promote continuous improvement in IT governance processes.
+- Spearheaded server infrastructure development, quality control, staging, and production operations.
+
+Quality Control Manager
+*07/2013 - 08/2015*
+- Stayed well-informed of all company and federal regulations to bolster compliance of all corporate processes.
+- Handled all scheduling procedures for the department and directed team members in setting and achieving goals.
+- Observed customer specifications by monitoring the quality control of finished products.
+- Used creative and professional policies to find solutions to issues while diminishing conflicts.
+
+Education:
+- Federal Polytechnic, Ado-Ekiti, Associate of Science in Science Technology, 2003
+- Phoenix East Aviation, F.A.A Aircraft Dispatcher License, Aviation, 2014
+- University of Colorado at Boulder, Certificate in Cybersecurity Policy for Aviation and Internet, 07/2020
+- GOOGLE I.T Support, Certificate in IT Security: Defense against the Digital Dark Arts, 03/2021
+- Professional Course in: IT Security: Defense against the Digital Dark Arts, Operating System and You: Becoming a Power User, The Bits and Bytes of Computer Networking, System Administration and IT Infrastructure Service Technical Support Fundamentals, 03/2021

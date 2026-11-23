@@ -1,0 +1,79 @@
+Résumé
+
+- Summary: Experienced Business Analyst with a strong background in data analysis, documentation, and project management. Proficient in various software tools and adept at cross-functional team leadership. Skilled in financial and operation reporting, with a focus on improving organizational change strategies and enhancing efficiency.
+
+- Experience:
+- Business Development Analyst
+- Dates: July 2016 - October 2017
+- Responsibilities:
+- Increasing leadership development for Entry Level Business Analyst
+- Implementing best business practices
+- Analyzing operation impacts and opportunities
+- Working with end users, administrators, stakeholders, and project managers
+- Understanding objective requirements
+- Utilizing workshops with cases and scenarios to communicate potential financial improvements
+- Analyzing system root cause of defects
+- Task/workflows analysis
+- Verifying metrics use to determine inefficiencies and areas for improvement through budget management
+- Influencing business partner decision making
+- Surveying and site visits
+- Reviewing all tracked, analyzed, and interpreted production trends that support data to ensure all necessary assignments and completions were achieved
+- Accomplishments:
+- Achieved basic financial and operation reporting
+- Assisted the coordination of Quality Assurance testers for end-to-end unit testing and post-production testing
+- Drafted financial and resource planning reports using optimization software such as Oracle, SQL, JIRA, and SAP
+- Solved time management inefficiencies with assisting customer service in all departments by 15%
+- Improved organizational change strategies with support on documented process functions (Using Microsoft Excel and [PERSON] to track orders, deliveries, and receipt of goods)
+
+- Documentation Analyst
+- Dates: November 2014 - September 2015
+- Responsibilities:
+- Solving time management inefficiencies with assisting customer service in all departments
+- Assisting in the accuracy and completeness of each department's expectations
+- Boosting company efficiency in the use of registrar's website with implementing enhancement of student documents
+- Improving organizational change strategies with support on documented process functions
+- Accomplishments:
+- Reduced administrative cost by 10%
+- Trained and supported the use of Microsoft Excel and [PERSON] to track orders, deliveries, and receipt of goods
+
+- Data Analyst (Intern)
+- Dates: May 2014 - November 2014
+- Responsibilities:
+- Learning how to analyze different stakeholder objectives and feedback
+- Effectively communicating reports, interviews, and surveys with top financial analyst
+- Assisting the coordination of Quality Assurance testers for end-to-end unit testing and post-production testing
+- Drafting financial and resource planning reports using optimization software such as Oracle, SQL, JIRA, and SAP
+- Accomplishments:
+- Achieved basic financial and operation reporting
+- Drafted financial and resource planning reports using optimization software such as Oracle, SQL, JIRA, and SAP
+
+- Education:
+- Bachelor of Arts
+- Institution: University of Miami
+- Dates: May 2016
+
+- Skills:
+- Adobe
+- Customer Relations
+- Document reports
+- Budgeting
+- Cross-functional Team Leadership
+- Business Analysis
+- Access
+- Microsoft Project
+- Organization
+- Advanced Presentation
+- Project Coordinator
+- Python
+- Quality Control
+- Quality Assurance
+- Research
+- Developing other Business Analyst
+- Public Speaking
+- Negotiation
+- SAP
+- SQL
+- SPSS
+- Oracle
+
+- Certifications:

@@ -1,0 +1,85 @@
+---
+Summary
+Detailing experience in various IT roles, including IT Technology Specialist, Level 1 Field Service Tech, and Information Technology Specialist. Strong background in hardware and software support, network management, and technical troubleshooting. Proficient in a range of IT skills and certifications.
+
+Experience
+
+IT Technology Specialist
+- Role: Managed and maintained company technology inventory, provided support for hardware and software issues, and trained end users.
+- Dates: 09/2015 – 04/2016
+- Responsibilities: Monitored databases, provided support for operational and maintenance aspects of system equipment, performed service and repair on company products, and managed staff issues.
+- Accomplishments: [positive outcome]
+
+Level 1 Field Service Tech
+- Role: Provided Tier1 & Tier2 level support to customers, performed service, repair, and installation of company products, and managed general maintenance of computer systems.
+- Dates: 03/2014 – 04/2015
+- Responsibilities: Provided support for operational and maintenance aspects of system equipment, performed service and repair on company products, and managed general maintenance of computer systems.
+- Accomplishments: N/A
+
+Information Technology Specialist
+- Role: Assisted clients with hardware and software issues, recommended and scheduled upgrades, and managed network infrastructure.
+- Dates: 08/2010 – 09/2010
+- Responsibilities: Provided hardware support, assisted clients with upgrades, set up network IDs, and managed network infrastructure.
+- Accomplishments: N/A
+
+Information Technology Specialist
+- Role: Conducted analysis for network issues, configured and troubleshooted network equipment, and developed policies and procedures.
+- Dates: 09/2006 – 08/2010
+- Responsibilities: Conducted analysis for network issues, configured and troubleshooted network equipment, and developed policies and procedures.
+- Accomplishments: N/A
+
+Education
+
+- Bachelor of Science : Business Management
+- Institution: National American University
+- Dates: August-05
+
+- Associate/Degree : Business Computer Programming
+- Institution: Robeson Community College
+- Dates: May-92
+
+Skills
+
+- Active Directory
+- Antivirus
+- C
+- Cable
+- Cat5
+- Computer Hardware
+- Hardware Support
+- HTML
+- IDs
+- Internet Access
+- Local Area Network
+- Layout
+- Office Applications
+- Microsoft Office 2000
+- Windows 2000
+- Microsoft Windows 2003 Server
+- Windows XP
+- Network Security
+- Networking
+- OS
+- All PC Hardware
+- Phone System
+- Develop Policies
+- POS
+- Power Supply
+- Python
+- Routers
+- Scheduling
+- TCP/IP
+- Technical Support
+- Desktop Support
+- Telecom
+- Tops
+- Troubleshooting
+- Upgrades
+- Vista
+- Website Design
+- Web Development and Design
+
+Certifications
+
+- Comptia Network
+- Comptia A
