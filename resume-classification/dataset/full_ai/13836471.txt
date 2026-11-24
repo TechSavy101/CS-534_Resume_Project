@@ -1,0 +1,149 @@
+---
+Summary
+Experienced Information Technology Manager with over 20 years of experience in network administration, software development, and technical support. Skilled in LAN and network administration, software development, and database management. Proven track record of developing and maintaining in-house applications, implementing new technology, and providing technical support.
+
+Experience
+
+Information Technology Manager
+- Dates: April 2007 to Current
+- Responsibilities:
+- Annual budget planning for department
+- Network administration
+- Implementation of new technology
+- Developed company applications
+- Daily backups and technical support for 80 users
+- Administration of security firewall, spam firewall and web filter
+- VLAN's and VPN setup and administration
+- 2008 R2 administration
+- Microsoft Active Directory administration with 100 PCs on Windows 7 and Windows XP
+- Microsoft DFS, DHCP, DNS and WSUS Services administration
+- FTP server implementation and administration
+- Microsoft Exchange Server 2010 Administration
+- Servers and desktop backup with Symantec BackupExec 2012
+- Administration, maintenance and daily backup for Sybase SQL Anywhere 11.0 databases
+- Administration of Mac editing rooms on OS X 10.8 - 10.9 with SAN storage (Apple XSAN 30 TB Array administration on Promise VTrak Ex10 Series)
+- Software installation and setup for editing rooms with Final Cut, Adobe Products, Cinema 4D etc
+- iNews (News Room Management System)
+- Wide Orbit (Traffic, Sales and Revenue Software)
+- Knowledge of Florical Systems (Software for Television Automation)
+- Responsible for research, quote, acquisition and configuration of all new network technology in the company
+- Repair, installation and updates of Software and Hardware for PCs and [PERSON]
+- Information Technology Manager
+- Develop, maintain and support in-house applications
+- Software licensing, updating operating system for desktop computers and servers
+- Technical support for 25 users
+- Supervised two employees for the department
+- Developed a program to track inventory of all hardware being distributed to 300 branch offices as well as a user manual for the in house application detailing procedures and processes
+- Network Administration for a LAN with 30 desktop PCs and 5 Windows 2003 Standard Edition, Active Directory Service, DHCP and DNS Server administration
+- Implementation of FTP Server for large file transfer
+- Implementation of Distributed File System (DFS) to share files in each department
+- Microsoft Exchange Server 2003 Administration
+- Creation of new users, groups and policy groups, daily backup
+- Installation and maintenance of Certification Authority in Windows Server 2003 for web application
+- Administration, maintenance and daily backup for a database Sybase SQL Anywhere 9.0
+- Maintenance and Creation of desktop applications (Power Builder 6.5, Power Builder 9.0)
+- Technical support for 300 branch offices
+- New installation and updates of Software and Hardware
+
+Information Technology Manager
+- Dates: July 2001 to March 2007
+- Responsibilities:
+- Develop, maintain and support in-house applications
+- Software licensing, updating operating system for desktop computers and servers
+- Technical support for 25 users
+- Supervised two employees for the department
+- Developed a program to track inventory of all hardware being distributed to 300 branch offices as well as a user manual for the in house application detailing procedures and processes
+- Network Administration for a LAN with 30 desktop PCs and 5 Windows 2003 Standard Edition, Active Directory Service, DHCP and DNS Server administration
+- Implementation of FTP Server for large file transfer
+- Implementation of Distributed File System (DFS) to share files in each department
+- Microsoft Exchange Server 2003 Administration
+- Creation of new users, groups and policy groups, daily backup
+- Installation and maintenance of Certification Authority in Windows Server 2003 for web application
+- Administration, maintenance and daily backup for a database Sybase SQL Anywhere 9.0
+- Maintenance and Creation of desktop applications (Power Builder 6.5, Power Builder 9.0)
+- Technical support for 300 branch offices
+- New installation and updates of Software and Hardware
+
+Information Systems Administrator
+- Dates: January 2001 to July 2001
+- Responsibilities:
+- Technical support for 10 network users and 100 branch offices
+- Implemented Terminal Service to be able to connect to five new branches in Colombia
+- Daily backup for Sybase SQL Anywhere 7.0 Database, Microsoft SQL Server 2000 Database, QuickBooks Pro Database and in house program
+- Network Administration, implementation of FTP service for 100 branches connections, creation of uses and security access
+- Windows 2000 Server Administration, Active Directory Service administration and maintenance
+- Microsoft SQL Server 2000 administration
+- Technical Support for branch offices
+- Installation and updates of Software and Hardware
+
+Education
+
+- BS : Computer System Engineer
+- Institution: Fundacion Universidad Autonoma de Colombia
+- Dates: January 29 2000
+
+- Computer Technician
+- Institution: Universidad Javeriana
+- Dates: April 26 1997
+
+- Certification in LAN Network Administration
+- Institution: Universidad Javeriana
+- Dates: January 1997
+
+Skills
+
+- 4D
+- Active Directory
+- Adobe Products
+- Apple
+- Automation
+- backup
+- Broadcast
+- budget planning
+- Computer Technician
+- Hardware installation and configuration
+- Hardware
+- databases
+- Database
+- DHCP
+- DNS
+- editing
+- Final Cut
+- firewall
+- FTP
+- inventory
+- LAN
+- [PERSON]
+- Magic
+- access
+- Microsoft Exchange Server
+- Windows 7
+- Windows
+- 2000
+- Windows XP
+- Network Administration
+- network
+- OS
+- operating system
+- Power Builder 6.5
+- Power Builder 9.0
+- Sales
+- SAN
+- Servers
+- Software installation
+- Microsoft [PERSON]
+- Streaming Video
+- Sybase SQL Anywhere 7.0
+- Sybase SQL Anywhere 9.0
+- Sybase SQL Anywhere
+- Symantec
+- Technical support
+- Television
+- video
+- VPN
+- [PERSON]
+- [PERSON] Server
+
+Certifications
+
+- Certification in LAN Network Administration

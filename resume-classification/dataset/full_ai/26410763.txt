@@ -1,0 +1,60 @@
+---
+Summary
+Not provided in the fact sheet.
+
+Experience
+- Game Design Intern
+- Role: Game Design Intern
+- Dates or Duration: November 2016 to Current
+- Responsibilities:
+- Oversight of documentation and file organization
+- Co-Designer for general game mechanics
+- Oversight of multiple concession stands serving a variety of items
+- Prepared food items and cooked on a grill or in fryers
+- Closely followed standard protocols for safe food preparation, assembly, and presentation to ensure customer satisfaction
+- Assisted manager in ensuring smooth operation of store in all aspects
+- Accomplishments:
+- Earned 'Team Member of the Month' while working in the food service section of a Market Street grocery store
+- Swift vertical promotion within food service section at Market Street
+- Member of [PERSON] Omega : September 2015 - May [PHONE]+ hours of various volunteer services
+
+- Concessions Supervisor
+- Role: Concessions Supervisor
+- Dates or Duration: June 2016 to Current
+- Responsibilities:
+- Served as mentor to junior team members
+- Filled out daily paperwork; inventory logs, staff time logs, etc.
+
+- Food Service Clerk
+- Role: Food Service Clerk
+- Dates or Duration: September 2014 to July 2015
+- Responsibilities:
+- Prepared food items and cooked on a grill or in fryers
+- Carefully maintained sanitation, health and safety standards in all work areas
+- Performed general maintenance duties
+- Took initiative to find extra tasks when scheduled duties were completed
+- Took necessary steps to meet customer needs and effectively resolve food or service issues
+
+- Customer Service Representative / Cook
+- Role: Customer Service Representative / Cook
+- Dates or Duration: January 2013 to August 2014
+- Responsibilities:
+- Prepared items according to written or verbal orders while performing extensive multitasking
+- Cleaned food preparation areas, cooking surfaces, and utensils
+- Up-sold additional menu items, beverages and desserts to increase restaurant profits
+- Took necessary steps to meet customer needs and effectively resolve food or service issues
+
+Education
+- Degree: Bachelor of Science : Computer Science
+- Institution: Texas A&M University
+- Dates or Duration: 2019
+
+Skills
+- Knowledge in C++, Java, Ruby, MatLab, Linux/Unix Command Line, LaTex
+- Basic Data-Structure Construction and Management
+- Advanced Calculus
+- Discrete Mathematics
+- Linear Algebra
+
+Certifications
+Not provided in the fact sheet.

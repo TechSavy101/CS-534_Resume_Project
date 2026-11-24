@@ -1,0 +1,57 @@
+Résumé
+
+I am an experienced Information Technology Manager with over 20 years of professional experience in managing and administering IT infrastructure. My expertise spans from network administration, application development, and database management to hardware installation and software deployment. I have successfully managed and implemented new technologies, developed applications, and provided technical support for a wide range of users and systems.
+
+Current Position: Information Technology Manager
+April 2007 to Current
+Company Name - City, State
+- Oversee annual budget planning for the IT department, including network administration, new technology implementation, and application development.
+- Administer security firewalls, spam filters, and web filters, and manage VLANs and VPNs.
+- Administer R2 2008, Active Directory, DFS, DHCP, DNS, and WSUS services.
+- Manage and maintain Microsoft Exchange Server 2010, including user creation and daily backups.
+- Administer Sybase SQL Anywhere 11.0 and 11.0 databases, and manage Sybase SQL Anywhere 9.0 databases.
+- Manage Mac editing rooms using OS X 10.8 - 10.9 with SAN storage (administering Apple XSAN 30 TB array on Promise VTrak Ex10 Series).
+- Install and configure software for editing rooms, including Final Cut, Adobe products, and Cinema 4D.
+- Manage iNews (News Room Management System) and Wide Orbit (Traffic, Sales, and Revenue Software).
+- Manage Florical Systems, [PERSON] video server, [PERSON] (Mobile Broadcast Streaming Video), and some Miranda products.
+- Conduct research, quote, and acquisition of new network technology.
+- Provide repair, installation, and updates of software and hardware for PCs and Macs.
+
+Previous Position: Information Technology Manager
+July 2001 to March 2007
+Company Name - City, State
+- Develop and maintain in-house applications, including software licensing, operating system updates, and technical support for 25 users.
+- Supervise two employees in the department.
+- Develop a program to track hardware inventory and create a user manual for the in-house application.
+- Administer a LAN with 30 desktop PCs and 5 Windows 2003 Standard Edition servers, including Active Directory, DHCP, and DNS services.
+- Implement FTP services for file transfer and DFS for file sharing.
+- Administer Microsoft Exchange Server 2003, including user creation and daily backups.
+- Administer a Certification Authority in Windows Server 2003 for web applications.
+- Administer Sybase SQL Anywhere 9.0 databases and maintain desktop applications (Power Builder 6.5, Power Builder 9.0).
+- Provide technical support for 300 branch offices.
+- Install and update software and hardware.
+
+Previous Position: Information Systems Administrator
+January 2001 to July 2001
+Company Name - City, State
+- Provide technical support for 10 network users and 100 branch offices.
+- Implement Terminal Services to connect to five new branches in Colombia.
+- Perform daily backups for Sybase SQL Anywhere 7.0, Microsoft SQL Server 2000, QuickBooks Pro, and in-house programs.
+- Administer Windows 2000 Server, Active Directory, and DNS services.
+- Administer Microsoft SQL Server 2000.
+- Provide technical support for branch offices.
+- Install and update software and hardware.
+
+Education
+BS: Computer System Engineer
+January 29, 2000
+Fundación Universidad Autónoma de Colombia - City, Colombia
+
+Computer Technician
+April 26, 1997
+Certification in LAN Network Administration
+January 1997
+[PERSON] [PERSON] Universidad Javeriana - City, Colombia
+
+Skills
+4D, Active Directory, Adobe Products, Apple, Automation, backup, Broadcast, budget planning, Computer Technician, Hardware installation and configuration, Hardware, databases, Database, DHCP, DNS, editing, Final Cut, firewall, FTP, inventory, LAN, [PERSON], Magic, access, Microsoft Exchange Server, Windows 7, Windows, 2000, Windows XP, Network Administration, network, OS, operating system, Power Builder 6.5, Power Builder 9.0, processes, QuickBooks Pro, research, Sales, SAN, Servers, Software installation, Microsoft [PERSON], Streaming Video, Sybase SQL Anywhere 7.0, Sybase SQL Anywhere 9.0, Sybase SQL Anywhere, Symantec, Technical support, Television, video, VPN, [PERSON], [PERSON] Server

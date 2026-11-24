@@ -1,0 +1,49 @@
+Résumé
+
+Profile: With 3+ years of professional experience in software testing, I have a strong background in Agile software development and a solid foundation in both manual and automation testing. I possess excellent analytical and problem-solving skills, and I have extensive experience in testing web and mobile applications, including GIS applications, e-commerce, banking, and insurance domains. I am proficient in scripting, programming, and test automation, and I have a proven track record in preparing and executing test plans and test cases. I am ISTQB certified and have a strong passion for delivering quality software.
+
+Technical Profile: My technical skills include proficiency in programming languages such as C, C#, JavaScript, and [PERSON]. I have experience with automation tools such as Selenium IDE and Webdriver, as well as [PERSON] tools like Jira and Buganizer. I am skilled in using Microsoft Office, Microsoft Project, and Open Office. I have experience with databases such as My SQL and SQL Server, and operating systems including [PERSON], Linux, and OS X. I have hands-on experience with testing mobile applications on iOS and Android platforms.
+
+Professional Experience:
+
+Test Analyst-Intern/Contractor, Company Name, August 2014 - February 2015
+
+- Conducted system and functional testing on e-commerce websites, including integration testing and cross-browser testing.
+- Performed cross-platform testing on various desktop browsers, mobile phones, and tablets.
+- Analyzed and communicated with clients regarding functional and technical requirements.
+- Wrote functional and non-functional requirement test cases based on the functional specification.
+- Executed test cases and reported issues to the client.
+- Participated in daily stand-up meetings and company meetings to discuss process improvements.
+- Worked on various retail domain projects, including [URL], [URL], [URL], [URL], and [URL].
+
+Quality Analyst, Company Name, October 2011 - February 2014
+
+- Conducted functional and integration testing of mobile apps on [PERSON].
+- Performed app reviews on the Google Play Store.
+- Designed and executed test plans and test cases for new product features.
+- Generated reports after manual execution of test cases.
+- Developed and executed automation test cases using GoogleUIAutomator.
+- Conducted [PERSON] testing on various browsers and devices.
+- Reviewed data added by internal and external users before going live on Google Maps.
+- Reported and tracked bugs using Buganizer.
+- Managed and mentored a team of 20 people, providing performance reports and guiding the team in the absence of the lead.
+- Participated in meetings with development teams to suggest process improvements.
+
+Test Engineer, Company Name, September 2010 - July 2011
+
+- Assisted in understanding and preparing test data.
+- Wrote and executed test cases using QTP scripts in Expert View.
+- Developed test plans and test cases based on functional specifications.
+- Participated in weekly team meetings to suggest process improvements.
+- Prepared daily and weekly status reports.
+- Developed and executed automation test cases for the Insurance Management System.
+- Conducted ad-hoc testing and performed sanity checks on the application post-launch.
+- Managed and mentored a team of 20 people and documented their performance.
+
+Education:
+
+- Master of Engineering, Software Engineering, University of Auckland, 2010-2012
+- Bachelor of Engineering, Information Technology, Jawaharlal Nehru Technological University, 2006-2010
+- Key Papers: High Performance Computing, System Security, Project Management, Risk Management
+
+Skills: Testing, Test Cases, Functional Testing, Integration Testing, Integration, Android, [PERSON], [PERSON], Software Testing, Statistics, Test Plans, Topo, Writing Functional, Engineer, Test Engineer, Writing Test, Writing Test Cases, Access, C#, [PERSON], [PERSON], [PERSON], [PERSON], [PERSON], Retail, Retail Marketing, System Testing, Acceptance Testing, C++, Documentation, GIS, HTML, [PERSON], [PERSON], Microsoft Office, Microsoft Project, Ms Office, Performance Testing, Regression Testing, Scripting, [PERSON], Software Development, Structured Software, System Integration, User Acceptance, User Acceptance Testing, Windows 8, XML, Operations, Database, Insurance Management, Payments, B2B Software, High Performance Computing, Project Management, Risk Management, Security, Software Engineering, System Security

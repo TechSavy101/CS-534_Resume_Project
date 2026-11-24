@@ -1,0 +1,56 @@
+Résumé
+
+Transitioning from an Application Developer to a Business Analyst or Technical Liaison, I am seeking a position where I can leverage my extensive experience and education. My background includes a robust skill set in Microsoft .NET, Visual Basic, and C#, as well as proficiency in Blaze Advisor .NET, C++ programming, and web development. I have a strong track record of delivering high-quality solutions, with a focus on process optimization and technical leadership.
+
+Consultant
+
+06/2012 - Current
+- Managed/Designed/Developed Market Segment determination rules, which streamlined Underwriting workflows and improved processing efficiency.
+- Developed Underwriting rules question service, providing real-time access to questions for agents and support users.
+- Designed and developed an Underwriting Rules based Protocol system, reducing the need for agent intervention during policy assessment.
+- Led the design and implementation of a Single Entry System, which streamlined the process for agents and internal users.
+- Managed the deployment of Light Touch Underwriting Account renewal rules, increasing policy renewal flow rates by minimizing underwriter intervention.
+- Developed and maintained Web Services for the Underwriting Rules Engine, enhancing Underwriters' ability to analyze data in English terms and establish profitable decisions for each policy submitted.
+- Developed and maintained Insurance New Business and Endorsement object models for Policy Binding Authority, and arranged planning sessions with Data Modelers and Business Analysts to develop schemas using Visual Studio XSD and XML structures.
+- Managed Team Foundation Server deployments for .NET and SQL Database changes, and coordinated group meetings with developers concerning deployment strategies and project implementation dates.
+- Developed Legacy mainframe IT specifications for system enhancements related to Agent Portal initiatives, and provided IT technical leadership for legacy mainframe and Quality Assurance using SDLC methodology.
+
+Application Staff Specialist
+
+04/1986 - 06/2012
+- Managed and developed FICO rule applications using Templates, Decision tables, Rule Sets, Patterns, and integrating SRL code to provide viable business solutions.
+- Developed System and Product rule sets that directed system entry and product availability to both internal users and outside insurance agencies.
+- Developed and maintained Web Services for the Underwriting Rules Engine, integrating Commercial lines and Agent Portal data with Blaze (Fair Isaac) rules software.
+- Developed a Windows console application for unit testing FICO rules, allowing users to enter test cases through Excel and create XML file input.
+- Developed and maintained Legacy mainframe IT specifications for system enhancements related to Agent Portal initiatives.
+- Provided IT technical leadership for legacy mainframe, Quality Assurance using SDLC methodology, and Architecture design and implementation of CICS web-based applications with DB2 relational database interfaces.
+
+Education and Training
+
+- Bachelor's Degree in Business Administration with a focus on Computer Science from Ursinus College.
+- A.A.S. Degree in Computer/Applied Science from Montgomery County Community College.
+- Certificate in Computer Programming from Maxwell Institute, Computer Learning Center.
+
+Skills
+
+- Blaze Advisor .NET 6.10.1
+- Microsoft C# .NET 4.5 framework
+- Technical Specifications
+- Business Object Models in XML
+- TFS Source Control
+- HTML
+- JavaScript
+- Technical Leadership
+- Excel
+- Quality Assurance
+- Real-time processing
+- SDLC
+- SQL Server Management 2014
+- Visual Basic 5.0
+- Microsoft Visual Studio 2013 and 2015
+
+Interests
+
+- Exercise and weight training
+- Gardening
+- Recreational Fishing

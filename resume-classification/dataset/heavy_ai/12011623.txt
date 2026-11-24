@@ -1,0 +1,65 @@
+Résumé
+
+Career Overview: A highly experienced graduate with a Master's degree in Analytics, I have extensive experience in SAS, Web scraping, SQL, Predictive modeling, and data visualization. I possess strong analytical skills, adept at identifying data requirements for analysis, data cleaning, munging, and model building. I ensure the organization effectively uses data to achieve profit and growth objectives. With over six years of experience in research, data analysis, and teaching, I have a diverse background in Engineering, Manufacturing, Retailing, Higher Education, and IT/Data-related companies. I am proficient in SQL, data warehousing, and various statistical software such as R, SAS, Python, JMP, SPSS, GIS, and Tableau. I have a strong foundation in database design for data warehousing environments and experience with machine learning techniques including shrinkage methods such as LASSO and Elastic Net regression models. My expertise also includes dimension reduction using PCA, outlier analysis, linear regression, clustering techniques, and logistic regression.
+
+Work Experience:
+
+Engineering and Quality Technician
+[PERSON]
+*City, State*
+*01/2013 - 01/2016*
+- Conducted semiconductor production process development and engineering designs, managed small projects, and prepared statements.
+- Identified product defects introduced in the data warehouse by performing quality tests using SQL and JMP.
+- Coordinated with scientists, engineers, managers, and analysts to understand the impacts of defects and provided valuable information for product improvements and customer satisfaction.
+- Managed multiple tasks and accomplished goals efficiently, achieving a 10% higher performance rate for the fiscal year of 2014.
+- Managed and adjusted semiconductor production processes or equipment to improve quality and productivity.
+- Provided technical support in developing, building, and testing prototypes, new products, processes, and procedures.
+- Offered training and advice to other engineering technicians.
+- Applied database management and data analysis methods to enhance production efficiency and reduce costs by 5% every quarter.
+
+Lecturer in Environmental Science and Technology
+Company Name
+*City, State*
+*01/2007 - 01/2012*
+- Effectively engaged in course curriculum development, taught courses, and engaged in research projects and community services.
+- Developed course material that supported the course goals, including design of curriculum and schedule of instructions.
+- Provided students with guidance on their grades and progress in the course work.
+- Elected as the best instructor of the College in 2008.
+- Established and coordinated a nature and environmental protection club in the university.
+- Developed teaching methodologies and techniques to improve resource management knowledge.
+- Engaged in major research projects on resource management in collaboration with universities, NGOs, and engineering consulting companies.
+- Served as the lead of the college's audiovisual center and arranged workshops, meetings, and documented academic resources.
+- Undertaken a summer project on "Mapping and clustering of Chicago and Seattle city Crime" with a 90% accuracy.
+
+Assistant Lecturer in Natural Resource Management
+Company Name
+*City, State*
+*01/2004 - 01/2006*
+- Assisted in teaching, researching, and developing methods to improve both the university and students' performance.
+- Engaged in curricular and extra-curricular activities and community services.
+- Established and coordinated a nature and environmental protection club in the university.
+- Developed teaching materials, handouts, and laboratory manuals.
+- Engaged in major research projects on resource management in collaboration with universities, NGOs, and engineering consulting companies.
+- Served as the lead of the college's audiovisual center and arranged workshops, meetings, and documented academic resources.
+- Undertaken a summer project on "Mapping and clustering of Chicago and Seattle city Crime" with a 90% accuracy.
+
+Education and Training:
+
+Master of Science in Analytics
+*University of New Hampshire, USA*
+*May 2017 - Present*
+- Currently working on a project on mapping and clustering of student success at Granite State College (GSC) using clustering, data mining, and machine learning predictive modeling techniques.
+- Working on a project with a team of 6 people for predicting players' performance in the UNH hockey team.
+- Undertaken a summer project on "Mapping and clustering of Chicago and Seattle city Crime" with a 90% accuracy.
+- Working on a project with a team of 6 people for predicting players' performance in the UNH hockey team.
+
+Master of Science in Environmental Science and Technology
+*UNESCO-IHE, *
+*City, The Netherlands*
+*July 2010 - July 2010*
+- Undertaken a summer project on "Mapping and clustering of Chicago and Seattle city Crime" with a 90% accuracy.
+
+Bachelor of Science in Resource Management
+*Debub University, Ethiopia*
+*July 2004 - June 2004*
+- Undertaken a summer project on "Mapping and clustering of Chicago and Seattle city Crime" with a 90% accuracy.

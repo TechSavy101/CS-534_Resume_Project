@@ -1,0 +1,92 @@
+Résumé
+
+I am a seasoned IT Manager with over 20 years of experience in managing and maintaining corporate and remote IT infrastructure. My expertise spans from project management and tracking to advanced troubleshooting and system upgrades. I have a proven track record of streamlining internal communication platforms, negotiating vendor contracts, and implementing cost-effective solutions. My experience includes managing teams of help desk technicians, developing disaster recovery plans, and overseeing the installation of complex IT systems.
+
+IT Manager
+- December 2013 to Current
+- Company Name, City, State
+- Stabilized and managed infrastructure and applications for corporate and remote facilities.
+- Created standard hardware and software lists based on the needs and purchased them accordingly.
+- Administered various information technology systems and applications.
+- Planned and managed information technology projects.
+- Defined and planned employee training programs for internal staff.
+- Maintained production database applications.
+- Analyzed system performance and made recommendations for infrastructure upgrades and/or changes.
+- Negotiated vendor contracts to ensure the correct product at the lowest cost.
+- Streamlined internal communication platforms.
+- Performed routine vulnerability and risk assessments for company infrastructure.
+- Conducted regular security audits of internal infrastructure and applications.
+- Implemented a Voice Over Internet Protocol (VoIP) phone system for the entire organization.
+- Managed the corporate website and made necessary edits and adjustments.
+- Worked with various departments to determine technology needs.
+- Provided end-user support to in-office and remote users.
+
+Senior Technical Analyst
+- October 2010 to December 2013
+- Company Name, City, State
+- Managed a team of help desk technicians to ensure excellent customer satisfaction and prompt issue resolution for over 30 clients.
+- Maintained and monitored the ticket queue for myself and other technicians.
+- Worked with technicians to determine the correct issue escalation path.
+- Administered various information technology systems and applications.
+- Analyzed system performance and made recommendations to management for infrastructure upgrades and/or changes.
+- Maintained consistent communications with client point of contact.
+- Own complex client help desk and infrastructure rollouts.
+- Developed detailed technical documentation and processes for the clients.
+- Worked closely with the Director of IT to develop help desk policies and procedures.
+- Made technical recommendations to clients based on need and cost.
+- Managed the monthly help desk budget and managed it accordingly.
+- Worked with the team and vendors on technical training needs.
+
+Director of Information Technology
+- January 2010 to October 2010
+- Company Name, City, State
+- Managed corporate network and ensured high system availability.
+- Developed backup and disaster recovery plans.
+- Reduced system downtime by diagnosing and resolving complex technology related issues.
+- Administered MPLS network between remote locations.
+- Coordinated construction and configuration of remote offices.
+- Implemented corporate infrastructure monitoring program.
+- Managed corporate phone and voice mail systems.
+- Provided quality support to all personnel.
+- Communicated with the President/CEO on all technical matters.
+
+Director of Information Technology
+- June 2004 to December 2009
+- Company Name, City, State
+- Managed corporate network and ensured high system availability.
+- Maintained disaster recovery methods and backup procedures.
+- Managed 68 Local Area Networks.
+- Oversaw the implementation of a document management solution.
+- Managed internal phone switch voice mail system.
+- Oversaw IT staff to ensure job expectations were met and trained in any deficiencies.
+- Implemented an incident reporting system that allowed tracking of issues and their correction in a timely manner.
+- Formulated departmental policy and procedure documents.
+- Created annual IT budget and monitored all IT-related expenditures.
+- Research and recommended system development priorities.
+- Effectively communicated relevant IT-related information to superiors.
+- Communicated with all departments to ensure all Information Technology needs were met.
+- Provided technical documentation for hardware and software installation, end-user support documents, and client PC standards.
+- Negotiated with vendors to create a cost-effective solution for hardware, software, and maintenance agreements.
+- Provided end-users with training classes on Microsoft Office products.
+- Reduced cell phone bills by 40% and travel expenses by 45% by implementing policy and procedures for each.
+- Exceeded job expectations with minimal supervision required.
+
+Project Manager
+- June 2000 to December 2003
+- Company Name, City, State
+- Provided leadership and direction to installation team members by investigating the radiology department workflow, gathering requirements, managing scope, and ensuring quality throughout the installation.
+- Worked with the sales team to determine the PACS, Radiology Information Systems, and/or Hospital Information System needs of the imaging center or hospital.
+- Coordinated with vendors, hospital staff, and hospital administration to determine the project timeline.
+- Aware of HIPAA guidelines and their implications throughout the project timeline.
+- Investigated Radiology modalities to determine DICOM compatibility and/or upgrade needs.
+- Participated in all aspects of equipment installations.
+- Communicated feedback to management regarding the needs of the sites.
+- Developed procedures to deploy client PCs with a standard image and security policies.
+- Worked with the help desk team to develop consistent help desk methods and call logging techniques.
+
+Education
+- Bachelor of Science in CyberSecurity, May 2015, University of Maryland University College, City, State
+- Bachelor of Science in Computer Information Systems, August 1993, Middle Tennessee State University, City, State
+
+Skills
+- Antivirus, Project Management, Troubleshooting, Windows Server 2003, 2008, 2012, Windows XP, Vista, 7, 8, Cisco, Citrix, Hardware, Contracts, Clients, Customer Satisfaction, Database Applications, Database Management, DELL, Direction, Disaster Recovery, Document Management, Employee Training, Help Desk, Image, Imaging, Information Systems, Information Technology, Local Area Networks, Leadership, Logging, Director, Managing, Exchange, Microsoft Office Suite, Office, Microsoft Office Products, SharePoint, Windows 9, 2000, NT, Migration, Networking, PACS, Personnel, Phone System, Policies, Processes, Property Management, Quality, Radiology, Reporting, Research, Sales, Software Installation, Supervision, Switch, Symantec, TCP/IP, User Support, Technical Training, Technical Documentation, Phone, Toshiba, Trend, Upgrades, Upgrade, VPN, Vista, Voice Mail, Website, Workflow
